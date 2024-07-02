@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('../Oswald.ttf');
+   
+}
+
+html {
+    font-family: 'Oswald', sans-serif;
+}
